@@ -22,7 +22,7 @@ llena con un numero que nadie introduciria, el -3506, esto es para usarlo de com
 
 //Aqui es donde se empiezan a validar las posiciones
 
-       for(int i=1; i<tamanio; i++){
+       for(int i=1; i<=tamanio; i++){
          do{
 
 //Al principio el valor se asigna a la posicion, sea igual a la anterior o no
